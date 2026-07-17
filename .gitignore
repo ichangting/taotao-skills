@@ -1,0 +1,45 @@
+# ===== 依赖 / 构建产物 =====
+node_modules/
+dist/
+.next/
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+
+# ===== 密钥 / 凭据（绝不入库）=====
+*.env
+.env.*
+credentials*
+token*
+*.token
+
+# ===== 版权雷区：王力等学者原著受版权保护，绝不公开 =====
+**/王力*.pdf
+**/王力*.docx
+**/文言的学习*
+**/*古代汉语*
+**/*常用词*
+
+# ===== 隔离区：第三方 / 待定内容（不随仓库发布）=====
+_quarantine/
+
+# ===== 临时 / 过程文件 =====
+*.tmpcase
+build_skills_repo.py
+inspect_frontmatter.py
+standardize_frontmatter.py
+standardize_safe.py
+fix_casing.py
+skill_inventory.py
+k12-test-output/
+
+# ===== WorkBuddy 内部文件（绝不公开）=====
+*.fallback.bak
+_user_meta.json
+_user_meta.json.fallback.bak
+

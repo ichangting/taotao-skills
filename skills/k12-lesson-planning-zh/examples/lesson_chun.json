@@ -1,0 +1,279 @@
+{
+  "shared": {
+    "grade": "七年级（上册）",
+    "subject": "语文",
+    "duration": 45,
+    "standard_code": "第四学段·阅读与鉴赏",
+    "standard_text": "在通读课文的基础上，理清思路，理解、分析主要内容，体味和推敲重要词句在语言环境中的意义和作用。欣赏文学作品，有自己的情感体验，初步领悟作品的内涵，从中获得对自然、社会、人生的有益启示；能对作品中感人的情境和形象说出自己的体验，品味作品中富于表现力的语言。",
+    "anchor_task": {
+      "teacher": [
+        "板书本课课题《春》朱自清，不急着讲。",
+        "问：提到'春'，你最先想到什么画面或哪句写春的诗？自由说。",
+        "先不收口下结论；收集'生机 / 花开 / 温暖'等词，留到精读对照。"
+      ],
+      "student": {
+        "type": "callout",
+        "kind": "student-task",
+        "label": "聊一聊",
+        "text": "说到'春天'，你脑海里先冒出什么画面？或者哪句写春的诗？写一两句。"
+      }
+    },
+    "p1": {
+      "student": "**理清脉络。** 默读《春》，用几个词写出文章先写什么、再写什么、最后写什么（提示：盼春—绘春—赞春）。绘春部分写了哪几幅图？"
+    },
+    "p2": {
+      "student": "**品味一句。** 从文中选一句你最喜欢的，用'它用了____（比喻 / 拟人），写出了春的____'说清好在哪。"
+    },
+    "p3": {
+      "student": "**一个字的力气。** 看'小草偷偷地从土里钻出来'——'偷偷地''钻'好在哪？换成'长出来'比一比。"
+    },
+    "vocabulary": {
+      "type": "table",
+      "rows": [
+        ["**繁花嫩叶**", "文中形容春天花叶繁盛娇嫩的词语，可积累。"],
+        ["**酝酿**", "这里指春风送来泥土、青草、花香混合的气息，渐渐透出味道。"],
+        ["**呼朋引伴**", "呼唤朋友、招引同伴，写鸟儿迎春的欢快。"],
+        ["**婉转**", "形容鸟鸣声柔和曲折、好听。"]
+      ]
+    },
+    "misconceptions": {
+      "type": "table",
+      "headers": ["学生表现", "为何如此", "教师应对"],
+      "rows": [
+        ["只概括'写春天很美'，说不出语言好在哪。", "还没落到'推敲词句'，习惯说空话。", "追问：哪句？哪个字？把'美'拆成一词一句。"],
+        ["把比喻当术语罗列，却不结合句子讲效果。", "小学背过'比喻'名词，未练'效果'。", "要求每提一种手法，必跟'写出了春的什么'。"],
+        ["把五幅图背成清单，忽略顺序与递进。", "把'理清思路'做成死记。", "指板书：从草到人有何 脉络，为何这样排。"]
+      ]
+    },
+    "look_fors": {
+      "type": "list",
+      "items": [
+        "**能拆'美'为词句**：说得出哪句哪字好——*先分享能拆开的，再引只说空话的*。",
+        "**比喻 / 拟人带效果**：提手法必跟'写出春的…'——*没跟效果的，用 p2 卡*。",
+        "**理清顺序**：能说绘春从草→花→风→雨→人——*卡在背清单的，指板书 脉络*。",
+        "**写法迁移意识**：小结时想到'我写夏也可用拟人'——*没想到的，用出口小测引*。"
+      ]
+    },
+    "exit_ticket": {
+      "teacher": "当堂收。考察'借写法写一段景'的萌芽——不必成篇。",
+      "student": {
+        "type": "callout",
+        "kind": "student-task",
+        "label": "出口小测",
+        "text": "用上课品味的一种写法（比喻 / 拟人 / 准动词任选），写两句话写'夏天的风'或'秋天的叶'，让读的人感到季节的劲。"
+      }
+    },
+    "exit_sort": {
+      "type": "cards",
+      "items": [
+        {"title": "掌握", "text": "用上一种写法且让句子有画面 / 劲道，如'秋风把叶子掀下来，打了个旋'（拟人）。"},
+        {"title": "基本掌握", "text": "写出季节特征但写法较平，如'夏天风很热'——提醒加一个动词或比喻。"},
+        {"title": "需再教", "text": "只写'夏天风很大'等判断句，无任何写法借用——回 p2 / p3 重品味。"}
+      ]
+    },
+    "hint_cards": {
+      "type": "cards",
+      "items": [
+        {"title": "卡住了？", "text": "先说'这句话写的是春的什么'（草？花？风？），再想它用了什么词让它活。"},
+        {"title": "比喻句式", "text": "____ 像 ____ 一样 ____。例：春风像母亲的手抚摸着你。"},
+        {"title": "拟人句式", "text": "让物做'人'的动作 / 心情：小草偷偷地钻、鸟儿呼朋引伴地卖弄清脆的喉咙。"}
+      ]
+    }
+  },
+  "documents": [
+    {
+      "id": "lesson_plan",
+      "audience": "teacher",
+      "eyebrow": "七年级 · 语文 · 第四学段",
+      "title": "《春》— 写景抒情散文",
+      "meta": "七年级上册 · 45 分钟 · 统编教材第一单元第 1 课",
+      "theme": {"primary": "#1E6091", "title_size": 20, "body_size": 10.5},
+      "sections": [
+        {
+          "heading": "一瞥",
+          "blocks": [
+            {"type": "from_shared", "key": "standard"},
+            {"type": "labeled", "label": "大白话", "text": "学生通过朗读与品味《春》的比喻、拟人，理清作者写景的顺序与语言妙处，并借写法写一段景。"},
+            {"type": "labeled", "label": "课时形状", "text": "导入 3 → 初读·整体感知 10 → 精读·品味语言 16 → 合作·探究 8 → 小结·迁移 5 → 出口小测 3（共 45 分钟）"},
+            {"type": "labeled", "label": "目标", "text": "学生能理清《春》的写景脉络，品味比喻 / 拟人等富于表现力的语言，并借鉴写法写一段景物。"},
+            {"type": "callout", "kind": "teacher-note", "label": "年级边界", "text": "七年级重在'理清思路 + 品味语言'，不深挖修辞术语体系；写法迁移点到即止。"},
+            {"type": "list", "label": "材料", "items": [
+              "投影仪 / 朗读音频",
+              "课文《春》（统编七上 P2，教师自备）",
+              "词语积累单（随包，1 / 人）",
+              "作业单（随包，1 / 人）"
+            ]},
+            {"type": "list", "label": "核心素养", "items": [
+              "审美创造：品味语言与写法",
+              "语言运用：朗读与词语积累",
+              "思维能力：分析写景顺序与手法",
+              "文化自信：热爱自然与景语传统"
+            ]}
+          ]
+        },
+        {
+          "heading": "学习目标",
+          "blocks": [
+            {"type": "labeled", "label": "大概念", "text": "好的写景，靠'有顺序的观察 + 富于表现力的语言'把春的生机写出来。"},
+            {"type": "list", "label": "学生将能", "items": [
+              "用普通话正确、流利、有感情地朗读课文。",
+              "理清'盼春—绘春—赞春'的思路。",
+              "品味比喻 / 拟人等词句的表达效果。",
+              "借鉴一种写法，写一段景物。"
+            ]},
+            {"type": "labeled", "label": "前置", "text": "小学已会借助想象读浅近散文、积累词语；本课在其上练'理清思路 + 推敲词句'。"}
+          ]
+        },
+        {
+          "heading": "关键词与预期困难",
+          "blocks": [
+            {"type": "h3", "text": "重点词"},
+            {"type": "from_shared", "key": "vocabulary"},
+            {"type": "h3", "text": "预期困难"},
+            {"type": "from_shared", "key": "misconceptions"}
+          ]
+        },
+        {
+          "heading": "教学过程",
+          "blocks": [
+            {"type": "phase_header", "name": "导入：唤起春的经验", "minutes": 3},
+            {"type": "from_shared", "key": "anchor_task"},
+            {"type": "phase_header", "name": "初读·整体感知", "minutes": 10},
+            {"type": "paragraph", "text": "听朗读音频，自由读，读准字音；默读圈画，理清'盼春—绘春—赞春'脉络；绘春写了哪几幅图（春草 / 春花 / 春风 / 春雨 / 迎春）。"},
+            {"type": "from_shared", "key": "p1", "label": "1"},
+            {"type": "phase_header", "name": "精读·品味语言", "minutes": 16},
+            {"type": "paragraph", "text": "聚焦'富于表现力的语言'。学生批注最喜欢的一句，说清它好在哪；教师收'只说很美'的空话，逼到一词一句。"},
+            {"type": "from_shared", "key": "p2", "label": "2"},
+            {"type": "from_shared", "key": "p3", "label": "3"},
+            {"type": "h3", "text": "巡视观察点"},
+            {"type": "from_shared", "key": "look_fors"},
+            {"type": "table", "headers": ["支架", "何时", "长什么样"], "rows": [
+              ["比喻 / 拟人句式卡", "只说'美'不拆词句", "____ 像 ____ 一样 ____ / 让物做'人'的动作"],
+              ["顺序 脉络", "卡在背五幅图清单", "指板书：草→花→风→雨→人，为何这样排"],
+              ["换词比较", "'钻'好在哪说不清", "'长出来'与'钻出来'，哪个有劲？"]
+            ]},
+            {"type": "phase_header", "name": "合作·探究", "minutes": 8},
+            {"type": "list", "label": "主问题", "items": [
+              "作者怎样把'春天有生机'写出来？从顺序、词语、手法三角度谈。",
+              "比一比：'红的像火'与平写'花很多很红'，哪个让你更见春？"
+            ]},
+            {"type": "phase_header", "name": "小结·迁移", "minutes": 5},
+            {"type": "paragraph", "text": "回看板书，总结'有顺序 + 善修辞 + 准动词'的写景三招；落到'借写法写一段景'。"},
+            {"type": "phase_header", "name": "出口小测", "minutes": 3},
+            {"type": "from_shared", "key": "exit_ticket"},
+            {"type": "h3", "text": "分拣学生作业"},
+            {"type": "from_shared", "key": "exit_sort"}
+          ]
+        },
+        {
+          "heading": "板书设计",
+          "blocks": [
+            {"type": "labeled", "label": "线索（左）", "text": "盼春（盼望着…反复）→ 绘春五图（草 / 花 / 风 / 雨 / 人）→ 赞春（娃娃 / 姑娘 / 青年 比喻）"},
+            {"type": "labeled", "label": "语言三招（右）", "text": "①比喻 ②拟人 ③准动词（偷偷地、钻、抚"}
+          ]
+        },
+        {
+          "heading": "评价与作业",
+          "blocks": [
+            {"type": "labeled", "label": "出口小测说明", "text": "当堂收，考察'借写法写一段景'的萌芽，不必成篇；按三档归类，不给学生贴分数标签。"},
+            {"type": "labeled", "label": "作业（分层·控量，约 15 分钟）", "text": "基础：背诵第 1–2 段，积累'繁花嫩叶'等不少于 8 个词。提升：借鉴一种写法，写一段'夏 / 秋 / 冬'的景（80 字内）。"}
+          ]
+        },
+        {
+          "heading": "设计说明",
+          "blocks": [
+            {"type": "labeled", "label": "保住精读 16 分钟", "text": "语言品味是本课核心，压缩讲授就丢魂——这是课标'推敲重要词句'的落点。"},
+            {"type": "labeled", "label": "朗读贯穿", "text": "课标要求'有感情朗读'，不只读不讲；音频 + 自由读 + 批注读三线。"},
+            {"type": "labeled", "label": "写法迁移点到即止", "text": "七年级不系统讲修辞，借《春》种下语感，避免术语堆砌。"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student_materials",
+      "audience": "student",
+      "eyebrow": "七年级 语文 · 学生材料",
+      "title": "《春》— 我们一起读",
+      "meta": "姓名：__________    日期：__________",
+      "theme": {"body_size": 11.5},
+      "sections": [
+        {
+          "heading": "课前·聊一聊",
+          "blocks": [
+            {"type": "group", "blocks": [
+              {"type": "from_shared", "key": "anchor_task"},
+              {"type": "answer_box"}
+            ]}
+          ]
+        },
+        {
+          "heading": "初读·理清脉络",
+          "blocks": [
+            {"type": "group", "blocks": [
+              {"type": "from_shared", "key": "p1", "label": "1"},
+              {"type": "answer_box"}
+            ]}
+          ]
+        },
+        {
+          "heading": "精读·品味语言",
+          "blocks": [
+            {"type": "callout", "kind": "student-note", "label": "记得", "text": "用'**好处**'说清你喜欢的那句好在哪——别只写'很美'。"},
+            {"type": "group", "blocks": [
+              {"type": "from_shared", "key": "p2", "label": "2"},
+              {"type": "answer_box", "ruled": true}
+            ]},
+            {"type": "group", "blocks": [
+              {"type": "from_shared", "key": "p3", "label": "3"},
+              {"type": "answer_box", "ruled": true}
+            ]},
+            {"type": "callout", "kind": "student-note", "label": "卡住了？", "text": "先说'这句写的是春的什么'，再想它用了什么词让它活——比喻卡、拟人卡在老师那里。"}
+          ]
+        },
+        {
+          "heading": "出口小测",
+          "blocks": [
+            {"type": "group", "blocks": [
+              {"type": "from_shared", "key": "exit_ticket"},
+              {"type": "answer_box", "ruled": true}
+            ]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "observation_template",
+      "audience": "teacher",
+      "eyebrow": "七年级 语文 · 听课观察模板",
+      "title": "《春》课堂观察",
+      "sections": [
+        {
+          "heading": "怎么用这份模板",
+          "blocks": [
+            {"type": "paragraph", "text": "精读与探究环节巡视，在'观察点'格里记学生表现；星标一个'拆美为词句'的、一个'只说空话'的，留到探究环节对比。下课后，把出口小测按三档归类。"}
+          ]
+        },
+        {
+          "heading": "观察点",
+          "blocks": [
+            {"type": "from_shared", "key": "look_fors"},
+            {"type": "fill_table", "headers": ["学生", "看到的策略", "下一步"], "blank_rows": 8, "row_height_pt": 26}
+          ]
+        },
+        {
+          "heading": "预期困难",
+          "blocks": [
+            {"type": "from_shared", "key": "misconceptions"}
+          ]
+        },
+        {
+          "heading": "出口小测分拣",
+          "blocks": [
+            {"type": "from_shared", "key": "exit_ticket"},
+            {"type": "from_shared", "key": "exit_sort"}
+          ]
+        }
+      ]
+    }
+  ]
+}

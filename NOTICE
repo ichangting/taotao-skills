@@ -1,0 +1,17 @@
+NOTICE — 第三方派生声明
+
+本仓库中的 `skills/k12-lesson-planning-zh`（语文备课技能）派生自 Anthropic, PBC 的开源项目：
+
+    https://github.com/anthropics/k12-teacher-skills
+
+原始项目以 Apache License 2.0 发布。本派生版本在原始基础上进行了"中国化"改造
+（学科固定为语文、课标依据替换为《义务教育语文课程标准（2022 年版）》、课堂流程改为
+中国初中 45 分钟、输出中文化、补充中文渲染字体等），并以 Apache License 2.0 同源协议
+发布（见该目录内的 LICENSE 与本文档）。
+
+版权归属：
+  - 原始代码与文档：© Anthropic, PBC（Apache-2.0）
+  - 中国化改造部分：© 2026 万景涛（涛涛）
+
+使用本技能即表示你同意 Apache License 2.0 的条款。完整条款见
+`skills/k12-lesson-planning-zh/LICENSE`。
