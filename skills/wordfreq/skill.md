@@ -3,7 +3,7 @@ name: wordfreq
 description: |
   文档词频分析统计技能，支持 Word/PDF/EPUB/TXT 格式，输出表格 + 可视化图表
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wordfreq
 ---

@@ -3,7 +3,7 @@ name: article-illustration
 description: |
   提供智能化的文章配图规划与生成服务；当用户需要为文章添加配图、设计视觉方案或使用快捷指令（如一键配图、小红书配图）时使用
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/article-illustration
 ---

@@ -3,7 +3,7 @@ name: whole-book-reading
 description: |
   整本书阅读与名著导读体系化设计技能，以课标为依据，对标统编教材 12 部必读名著
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/whole-book-reading
 ---

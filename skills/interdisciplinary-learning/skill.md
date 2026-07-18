@@ -3,7 +3,7 @@ name: interdisciplinary-learning
 description: |
   语文跨学科学习设计技能，以课标为依据，含小学 + 初中完整案例、可复用模板、评价标准、FAQ
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/interdisciplinary-learning
 ---

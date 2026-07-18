@@ -3,7 +3,7 @@ name: jiangxi-zhongkao-beikao
 description: |
   江西省中考备考技能，基于 2023-2025 年三年完整真题数据，分析命题规律，生成备考方案
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiangxi-zhongkao-beikao
 ---

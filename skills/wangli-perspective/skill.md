@@ -7,7 +7,7 @@ description: |
   当用户提到「用王力的视角」「王力会怎么看」「王力模式」「王力 perspective」时使用。
   即使用户只是说「帮我用王力的角度想想」「如果王力会怎么做」「切换到王力」也应触发。
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wangli-perspective
 ---

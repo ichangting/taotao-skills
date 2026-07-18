@@ -3,7 +3,7 @@ name: doc-review
 description: |
   资深编审级文档审查技能，覆盖文字、语法、格式、内容、风格五层审查体系
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/doc-review
 ---

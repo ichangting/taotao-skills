@@ -3,7 +3,7 @@ name: zhongkao-analysis
 description: |
   中考真题深度分析与考情研判技能，提供分析框架和模板，需填入本地真实真题数据
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/zhongkao-analysis
 ---

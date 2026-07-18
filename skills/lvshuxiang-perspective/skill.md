@@ -5,7 +5,7 @@ description: |
   用途：作为"语文/语法/语言教育思维顾问"，用吕叔湘的视角审视语文教育、教材编写、古文教学、辞书与知识库建设，并提供反馈。
   当用户提到「用吕叔湘的视角」「吕叔湘会怎么看」「吕叔湘模式」「吕叔湘看语文教育」「切换到吕叔湘」时使用。即使用户只是说「帮我用吕叔湘的角度想想」「如果吕叔湘会怎么做」「女娲做吕叔湘」也应触发。
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/lvshuxiang-perspective
 ---

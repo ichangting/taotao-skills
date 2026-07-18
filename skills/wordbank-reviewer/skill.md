@@ -3,7 +3,7 @@ name: wordbank-reviewer
 description: |
   审查 JSON 格式的古汉语/文言文选择题题库（及通用带 id 的 JSON 题库）。当任务涉及审查 word_meaning.json、punctuation.json、comparative_reading.json、transition.json 等题库 JSON 的 id 唯一性、target_index 准确性、选项重复、答案-解析一致性，或对齐派生文件（审查版 MD / data.js）时触发。This skill should be used when reviewing, linting, or fixing a JSON question bank for a Chinese classical-language learning app.
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wordbank-reviewer
 ---

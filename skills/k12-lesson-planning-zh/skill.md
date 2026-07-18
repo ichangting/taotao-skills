@@ -11,7 +11,7 @@ description: |
   核心信号：教师需要“新造一份教学材料”。若新课时也要求分层 / 三档材料，仍只调本 Skill，
   由本包一次性产出分层页，不再另调分层 Skill。
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: Apache-2.0
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/k12-lesson-planning-zh
 ---

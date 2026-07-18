@@ -3,7 +3,7 @@ name: jiaoyan-writing
 description: |
   教研课题/论文/教学案例辅助撰写技能，内置 PDF 解析和 Word 排版能力
 version: 1.0.0
-author: 涛涛（万景涛）
+author: 涛涛
 license: MIT
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiaoyan-writing
 ---
