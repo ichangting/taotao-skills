@@ -9,7 +9,7 @@ description: |
 version: 1.0.0
 author: 涛涛（万景涛）
 license: MIT
-homepage: https://taotao.site/skills/wangli-perspective
+homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wangli-perspective
 ---
 
 # 王力 · 学术思维操作系统

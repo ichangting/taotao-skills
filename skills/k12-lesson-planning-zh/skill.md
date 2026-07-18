@@ -13,7 +13,7 @@ description: |
 version: 1.0.0
 author: 涛涛（万景涛）
 license: Apache-2.0
-homepage: https://taotao.site/skills/k12-lesson-planning-zh
+homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/k12-lesson-planning-zh
 ---
 
 

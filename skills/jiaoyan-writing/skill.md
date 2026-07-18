@@ -5,7 +5,7 @@ description: |
 version: 1.0.0
 author: 涛涛（万景涛）
 license: MIT
-homepage: https://taotao.site/skills/jiaoyan-writing
+homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiaoyan-writing
 ---
 
 

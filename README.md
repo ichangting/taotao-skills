@@ -4,7 +4,7 @@
 覆盖备课、备考、写作、阅读、古汉语、文档审查等真实教学场景，全部可免费安装、自由使用与再创作。
 
 > 作者：涛涛（万景涛）· 江西初中语文教师 / AI 教育实践者
-> 网站（占位，待确认域名）：https://taotao.site ｜ 展示页：https://taotao.site/skills
+> 代码仓库（当前主入口）：https://github.com/ichangting/taotao-skills ｜ 个人网站（规划中）：待上线后补充
 
 ---
 
