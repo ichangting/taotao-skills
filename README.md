@@ -15,9 +15,9 @@
 | [k12-lesson-planning-zh](skills/k12-lesson-planning-zh) | 语文备课：一键生成「教案 + 学生材料 + 听课模板」三份 Word（中国初中·统编教材·2022 版课标） | Apache-2.0（派生自 Anthropic） |
 | [wangli-perspective](skills/wangli-perspective) | 王力学术思维视角：用语言学家的眼光审视古汉语与语文问题 | MIT |
 | [lvshuxiang-perspective](skills/lvshuxiang-perspective) | 吕叔湘语文教育思维视角：语法、教材、古文教学顾问 | MIT |
-| [guwen-cidian](skills/guwen-cidian) | 中学文言文词汇助手：查字词含义、一词多义辨析、通假/古今异义/词类活用提示、句子串讲、江西中考高频词速查自测 | MIT |
+| [guwen-cidian](skills/guwen-cidian) | 中学文言文词汇助手（自包含）：查字词含义、一词多义辨析、通假/古今异义/词类活用提示、句子串讲、江西中考高频词速查自测、统编教材版本核对 | MIT |
 | [article-illustration](skills/article-illustration) | 文章配图规划与生成（含小红书配图） | MIT |
-| [doc-review](skills/doc-review) | 资深编审级文档审查：文字 / 语法 / 格式 / 内容 / 风格五层 | MIT |
+| [doc-review](skills/doc-review) | 语文教师写作审核（资深编审级咬文嚼字）：文字差错 / 语法硬伤 / 用词精准 / 文风规范四关 + 轻量古文引用审核 | MIT |
 | [interdisciplinary-learning](skills/interdisciplinary-learning) | 语文跨学科学习设计（含小学 + 初中案例、模板、评价标准） | MIT |
 | [jiangxi-zhongkao-beikao](skills/jiangxi-zhongkao-beikao) | 江西中考备考：基于 2023–2025 真题的命题规律与备考方案 | MIT |
 | [jiaoyan-writing](skills/jiaoyan-writing) | 教研课题 / 论文 / 教学案例辅助撰写（含 PDF 解析、Word 排版） | MIT |
@@ -36,7 +36,7 @@
 | **从零备一节课** | `k12-lesson-planning-zh` 产出教案 / 学生材料 / 听课模板（全库唯一用脚本锁死格式的技能） |
 | **备文言文 / 古诗词** | `k12-lesson-planning-zh` 备课 → 卡文言 / 语法点时调 `wangli-perspective` / `lvshuxiang-perspective` 做学术把关 → `guwen-cidian` 查字词、做串讲与一词多义辨析 |
 | **中考总复习** | `jiangxi-zhongkao-beikao`（已含江西三年真题）出考情与方案；要做通用分析 / 自己填数据用 `zhongkao-analysis`；名著板块联动 `whole-book-reading` |
-| **写教研论文 / 课题** | `jiaoyan-writing` 出框架与 Word；用 `doc-review` 做编审级润色；引古文处可经 `wangli-perspective` 把关 |
+| **写教研论文 / 课题** | `jiaoyan-writing` 出框架与 Word；用 `doc-review` 做咬文嚼字级审核与润色；引古文处可经 `wangli-perspective` 把关、字词考据交 `guwen-cidian` |
 | **整本书阅读课程** | `whole-book-reading` 出导读方案；学生成果可用 `wordfreq` 做文本 / 词频分析；配图规划用 `article-illustration` |
 
 > 原则：每个"生产类"技能都应输出**格式锁死**的产物（如 k12 的 Word、guwen-cidian 的查词卡片 / 串讲卡），不要依赖大模型每次"自觉"排版；品牌声音统一见 [docs/品牌声音与品牌规范.md](docs/品牌声音与品牌规范.md)。
