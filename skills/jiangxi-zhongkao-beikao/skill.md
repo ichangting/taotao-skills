@@ -18,6 +18,12 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiangxi-z
 
 **数据来源**：江西省教育考试院、一线教师提供真题文档、考情分析文档
 
+### 与其他技能的关系
+
+- 本技能是**江西专用数据包**：已内置 2023-2025 三年真题考点，开箱即用。
+- 若你需要**通用分析框架 / 空白模板**（适用于任何地区、自己填数据），请配合使用 `zhongkao-analysis` 技能。
+- 名著备考可与 `whole-book-reading`（整本书阅读）技能联动。
+
 ---
 
 ## 江西省中考语文试卷结构三年对比（2023-2025）

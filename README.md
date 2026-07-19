@@ -27,6 +27,22 @@
 
 ---
 
+## 技能如何串联（典型工作流）
+
+单个技能是好工具，串起来才成"教学操作系统"。几条常见流水线：
+
+| 场景 | 怎么串 |
+|------|--------|
+| **从零备一节课** | `k12-lesson-planning-zh` 产出教案 / 学生材料 / 听课模板（全库唯一用脚本锁死格式的技能） |
+| **备文言文 / 古诗词** | `k12-lesson-planning-zh` 备课 → 卡文言 / 语法点时调 `wangli-perspective` / `lvshuxiang-perspective` 做学术把关 → `wordbank-reviewer` 审查自编题库 |
+| **中考总复习** | `jiangxi-zhongkao-beikao`（已含江西三年真题）出考情与方案；要做通用分析 / 自己填数据用 `zhongkao-analysis`；名著板块联动 `whole-book-reading` |
+| **写教研论文 / 课题** | `jiaoyan-writing` 出框架与 Word；用 `doc-review` 做编审级润色；引古文处可经 `wangli-perspective` 把关 |
+| **整本书阅读课程** | `whole-book-reading` 出导读方案；学生成果可用 `wordfreq` 做文本 / 词频分析；配图规划用 `article-illustration` |
+
+> 原则：每个"生产类"技能都应输出**格式锁死**的产物（如 k12 的 Word、wordbank 的校验脚本），不要依赖大模型每次"自觉"排版；品牌声音统一见 [docs/品牌声音与品牌规范.md](docs/品牌声音与品牌规范.md)。
+
+---
+
 ## 二、怎么安装
 
 这些 Skill 是给 **WorkBuddy**（以及兼容的 Claude Code / CodeBuddy 类客户端）用的。

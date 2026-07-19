@@ -394,7 +394,15 @@ jieba.add_word("人民教育出版社")
 
 ---
 
-## 依赖库
+## 依赖库与安装自检
+
+> ⚠️ 本技能依赖本地 Python 环境，未安装对应库会**静默失败**。请先安装。
+
+```bash
+pip install jieba wordcloud matplotlib pandas python-docx pdfplumber ebooklib beautifulsoup4
+# 可选：情感分析 / TF-IDF 高级分析
+pip install textblob scikit-learn
+```
 
 ```python
 # 核心库
@@ -414,6 +422,11 @@ beautifulsoup4 >= 4.12.0 # HTML 提取
 textblob >= 0.17.1       # 情感分析
 scikit-learn >= 1.2.0    # TF-IDF 计算
 ```
+
+**安装自检**：`python -c "import jieba, wordcloud, matplotlib, pandas, docx, pdfplumber; print('依赖就绪')"`
+**额外注意**：
+- 停用词表：脚本依赖 `stopwords.txt`，若环境没有请自备一份中文停用词表，否则跳过停用词过滤。
+- 中文字体：词云 / 图表需中文字体（如 `simhei.ttf`），否则中文会显示为方框。
 
 ---
 

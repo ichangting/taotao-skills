@@ -509,16 +509,26 @@ def create_word_document(content, style_guide='教研论文'):
 
 ---
 
-## 技术依赖
+## 技术依赖与安装自检
 
-**已安装**：
-- pdfplumber 0.11.9（PDF 解析）
+> ⚠️ 本技能的 PDF 解析 / Word 排版能力依赖本地 Python 环境。若未安装对应库，技能会**静默失败**。运行前请先确认。
+
+**必装（核心功能）**：
+```bash
+pip install pdfplumber python-docx
+```
+- pdfplumber（PDF 文字 / 表格提取）
 - python-docx（Word 排版）
 
-**可选**（如需增强功能）：
+**可选（增强功能）**：
+```bash
+pip install PyMuPDF paddleocr pdf2docx
+```
 - PyMuPDF（扫描版 PDF 处理）
 - paddleocr（中文 OCR 识别）
 - pdf2docx（PDF 转 Word）
+
+**安装自检**：运行前执行 `python -c "import pdfplumber, docx; print('依赖就绪')"`；若报 `ModuleNotFoundError`，请先按上方命令安装。
 
 ---
 
