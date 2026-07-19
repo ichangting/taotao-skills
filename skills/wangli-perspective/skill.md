@@ -350,4 +350,4 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wangli-pe
 ## 配套参考资料
 
 - 初中古诗文与文言字库语料：`../doc-review/references/古诗文基础/`、`../doc-review/references/文言字库/`（通假字、虚词、词类活用、高频词表等），可作本视角做训诂示例时的实证素材。
-- 文言题库词表：`../wordbank-reviewer/references/文言词表/`。
+- 文言题库词表：`../guwen-cidian/references/文言词表/`。
