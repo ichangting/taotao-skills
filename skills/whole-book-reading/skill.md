@@ -496,5 +496,3 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/whole-boo
 *依据标准：《义务教育语文课程标准（2022 年版）》*
 *学习任务群：整本书阅读*
 *核心素养：文化自信 + 语言运用 + 思维能力 + 审美创造*
-SKILL_EOF
-echo "whole-book-reading 技能已更新课标依据"
