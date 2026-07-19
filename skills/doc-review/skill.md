@@ -525,5 +525,5 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/doc-revie
 
 ---
 
-*版本信息更新时间：2026 年 1 月*
+*版本信息更新时间：2026 年 1 月*｜ 如教材换版，按 [数据年度更新SOP](../../docs/数据年度更新SOP.md) 更新。
 *依据教材：义务教育统编语文教科书（2016-2024 年版）、普通高中统编语文教科书（2019-2024 年版）*

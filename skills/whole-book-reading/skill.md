@@ -43,6 +43,8 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/whole-boo
 
 ## 统编教材必读名著（2024 最新版）✅ 已核实
 
+> 📅 清单以统编教材目录为准；如教材调整，按 [数据年度更新SOP](../../docs/数据年度更新SOP.md) 更新。
+
 ### 七年级（上册 + 下册）
 
 | 学期 | 名著 | 作者 | 类型 | 课时 | 课标对应 |
