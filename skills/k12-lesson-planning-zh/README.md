@@ -73,7 +73,7 @@ python fix_fonts.py ./output
 
 ```
 k12-lesson-planning-zh/
-├── skill.md                 # 技能定义（角色、流程、课标映射、边界）
+├── SKILL.md                 # 技能定义（角色、流程、课标映射、边界）
 ├── LICENSE                 # Apache-2.0（派生自 Anthropic）
 ├── NOTICE                  # 第三方派生声明
 ├── README.md               # 本文件
