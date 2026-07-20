@@ -5,6 +5,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 文本词频
+category: 评价考情
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/wordfreq
 ---
 

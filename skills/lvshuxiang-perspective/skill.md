@@ -7,6 +7,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 吕叔湘视角
+category: 文言古汉语
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/lvshuxiang-perspective
 ---
 

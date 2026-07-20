@@ -5,6 +5,9 @@ description: |
 version: 3.0.0
 author: 涛涛
 license: MIT
+display-name: 文稿审核
+category: 教研写作
+depends-on: [guwen-cidian]
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/doc-review
 ---
 

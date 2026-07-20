@@ -13,6 +13,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: Apache-2.0
+display-name: 备课助手
+category: 备课设计
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/k12-lesson-planning-zh
 ---
 

@@ -5,6 +5,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 江西中考备考
+category: 评价考情
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiangxi-zhongkao-beikao
 ---
 

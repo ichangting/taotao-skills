@@ -5,6 +5,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 配图规划
+category: 备课设计
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/article-illustration
 ---
 

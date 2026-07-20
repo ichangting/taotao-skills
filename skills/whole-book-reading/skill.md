@@ -5,6 +5,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 整本书阅读
+category: 备课设计
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/whole-book-reading
 ---
 

@@ -5,6 +5,8 @@ description: |
 version: 1.0.0
 author: 涛涛
 license: MIT
+display-name: 教研写作
+category: 教研写作
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/jiaoyan-writing
 ---
 
