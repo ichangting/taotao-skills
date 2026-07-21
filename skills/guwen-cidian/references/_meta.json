@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "last_verified": "2026-07-20",
+  "description": "guwen-cidian 参考资料数据底座版本锚。下游技能（doc-review、gushi-appreciation、wangli-perspective）引用本目录数据时，可先读取本文件确认版本兼容性。",
+  "collections": {
+    "文言词表": {
+      "path": "文言词表/",
+      "files_count": 9,
+      "core_file": "江西省中考文言文高频词表.md",
+      "last_updated": "2026-07",
+      "source": "江西省中考真题 2014-2025 + 统编教材"
+    },
+    "古诗文基础": {
+      "path": "古诗文基础/",
+      "files_count": 14,
+      "last_updated": "2026-04",
+      "source": "统编教材笔记整理"
+    },
+    "教材版本": {
+      "path": "教材版本/",
+      "files_count": 2,
+      "last_updated": "2026-04",
+      "source": "统编教材版本对照 + 版本差异规则"
+    }
+  },
+  "compatibility": {
+    "min_consumer_version": "doc-review>=3.0, gushi-appreciation>=1.0, wangli-perspective>=1.0"
+  }
+}

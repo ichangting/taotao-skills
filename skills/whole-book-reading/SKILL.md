@@ -7,6 +7,7 @@ author: 涛涛
 license: MIT
 display-name: 整本书阅读
 category: 备课设计
+data-freshness: "2026-04"
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/whole-book-reading
 ---
 

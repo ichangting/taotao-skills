@@ -7,6 +7,7 @@ author: 涛涛
 license: MIT
 display-name: 文言词典
 category: 文言古汉语
+data-freshness: "2026-07"
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/guwen-cidian
 ---
 
