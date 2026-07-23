@@ -11,6 +11,7 @@ display-name: 吕叔湘视角
 category: 文言古汉语
 data-freshness: "2026-04"
 homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/lvshuxiang-perspective
+disable-model-invocation: true
 ---
 
 

@@ -32,7 +32,7 @@ homepage: https://github.com/ichangting/taotao-skills/tree/main/skills/gushi-app
 | 层 | 谁负责 | 说明 |
 |---|---|---|
 | 字词含义 / 通假 / 古今异义 / 词类活用 / 一词多义 | **guwen-cidian** | 本技能**不复制**这些词库，需要时直接回查 `guwen-cidian/references/` |
-| 背诵默写易错字 | **guwen-cidian** | 回查 `references/古诗文基础/中考语文古诗文默写易错字.md` |
+| 背诵默写易错字 | **guwen-cidian** | 回查 `guwen-cidian/references/古诗文基础/中考语文古诗文默写易错字.md` |
 | 意象 / 艺术手法 / 主旨情感 / 名句赏析 / 考法链接 | **本技能（gushi-appreciation）** | 新建 `references/意象词典.md`、`references/手法库.md` |
 | 古文引用核对（作者/篇目/原文） | **doc-review** | 输出前经 doc-review 古文引用专项收口 |
 

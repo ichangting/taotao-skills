@@ -1,6 +1,6 @@
 # D 方案：缺口技能规划（古诗文鉴赏 / 作文批改 / 课件生成）
 
-> **状态**：实现中 —— `gushi-appreciation`（古诗文鉴赏）已于 2026-07-20 落地 v1.0.0（SKILL.md + 手法库/意象词典/鉴赏卡模板 三份 references + doc-review 自测收口通过）；`zuowen-grading`/`kejian-generator` 待实现。
+> **状态**：✅ 已完成 —— 三个技能全部落地。`gushi-appreciation`（古诗文鉴赏）2026-07-20 v1.0.0；`zuowen-grading`（作文批改）2026-07-23 v1.0.0；`kejian-generator`（课件生成）2026-07-23 v1.0.0。
 > **对齐**：`ARCHITECTURE.md` §2/§3/§7 — 命名规范 `<动词>-<对象>`、四域 category、depends-on 数据流、师德红线
 > **第一性原理**：回归"教师到底在做什么"——备 → 教 → 练/批 → 评 → 研 → 传播 → 成长。当前三个真空分别落在 **文言深度教学（教）、作文反馈（练/批）、备课闭环收口（备）**。
 
@@ -164,6 +164,6 @@ doc-review + guwen-cidian ──→ zuowen-grading
 ## 7. 下一步
 
 - ✅ **古诗文鉴赏（gushi-appreciation）已实现**（2026-07-20，v1.0.0）：SKILL.md + references/手法库.md + references/意象词典.md + references/鉴赏卡模板.md，doc-review 自测收口通过（见 docs/gushi-appreciation-自测报告.md）。
-- ⏳ **作文批改（zuowen-grading）**：价值最高，下一步实现；须先把手写合规护栏（仅教师端、不判分、PII 本地化）设计扎实再动手。
-- ⏳ **课件生成（kejian-generator）**：effort 最高、竞品多，放最后；依赖 k12 教案上游稳定。
+- ✅ **作文批改（zuowen-grading）已实现**（2026-07-23，v1.0.0）：SKILL.md + references/批改维度标准.md + references/评语模板.md + references/批改报告模板.md。合规护栏已内建（仅教师端、不判分不排名、PII 本地化、不替代教师）。
+- ✅ **课件生成（kejian-generator）已实现**（2026-07-23，v1.0.0）：SKILL.md + references/课件结构模板.md + references/板书设计参考.md + references/页面类型规范.md。输出 Markdown/JSON 大纲，不直接生成 .pptx。
 - 每技能实现仍遵循：先写 SKILL.md + references 骨架 → 补语料 → 跑 doc-review 收口自测。
